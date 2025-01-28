@@ -3,12 +3,11 @@ body{
     width: 100%;
 }
 #nav{
-    background-color:   rgb(14, 190, 7);
+    background-color:rgb(14, 190, 7);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px solid black;
-    width: 100%;
+    /* border-bottom: 2px solid black; */
 }
 #logo{
     color: antiquewhite;
